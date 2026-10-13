@@ -3,8 +3,8 @@
 VYRON site fabrikasının üretim örneği. Gerçek bir işletme değildir; marka, menü ve
 fiyatlar kurgudur. Fotoğraflar ve teknik ölçümler gerçektir.
 
-- Canlı: https://erdemirigiz-dotcom.github.io/sahan-tadim/
-- Yapım notu: https://erdemirigiz-dotcom.github.io/sahan-tadim/rehber/
+- Canlı: https://ironvisiontools.github.io/sahan-tadim/
+- Yapım notu: https://ironvisiontools.github.io/sahan-tadim/rehber/
 - Fotoğraf telifi: `gorseller-kaynak.md` (Pexels License)
 - Font telifi: `fonts/LICENSE.txt` (Fontshare ITF Free)
 - Üretim kaynağı: site-fabrikasi deposu, `hatlar/sahan-tadim/`
